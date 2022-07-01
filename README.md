@@ -1,6 +1,8 @@
 # Evento de plataforma
 ## Evento de plataforma feito atráves da Ignite Labs da @Rocketseat. 🚀🪂
 
+<img src="https://user-images.githubusercontent.com/92998471/176916667-db7d233a-1fe1-4e48-8735-9fddf0f45779.png" />
+
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
