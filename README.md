@@ -1,5 +1,5 @@
 # Evento de plataforma
-## Widget feito atráves da @Rocketseat, com o instrutor @diego3g 🚀
+## Evento de plataforma feito atráves da Ignite Labs da @Rocketseat. 🚀🪂
 
 ## 🧪 Tecnologias
 
