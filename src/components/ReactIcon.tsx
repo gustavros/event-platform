@@ -6,7 +6,7 @@ export function ReactIcon() {
       height="575"
       fill="none"
       viewBox="0 0 654 575"
-      className="absolute -z-10 left-1/4 top-1"
+      className="absolute -z-10 left-1/4 top-1 xl:w-[50vw]"
     >
       <path
         fill="url(#paint0_linear_24_689)"

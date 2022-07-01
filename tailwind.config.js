@@ -3,6 +3,22 @@ module.exports = {
   content: ["./src/**/*tsx"],
   theme: {
     extend: {
+      screens: {
+        xg: { max: "1535px" },
+        // => @media (max-width: 1535px) { ... }
+
+        xl: { max: "1140px" },
+        // => @media (max-width: 1279px) { ... }
+
+        lg: { max: "800px" },
+        // => @media (max-width: 1023px) { ... }
+
+        md: { max: "580px" },
+        // => @media (max-width: 767px) { ... }
+
+        sm: { max: "425px" },
+        // => @media (max-width: 639px) { ... }
+      },
       backgroundImage: {
         blur: "url(src/assets/blur.png)",
       },
