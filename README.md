@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [Tailwindcss](https://tailwindcss.com)
 - [Vite](https://vitejs.dev)
-- [TypeScript](https://www.typescriptlang.org)]
+- [TypeScript](https://www.typescriptlang.org)
 - [GraphQL, GraphCMS](https://graphql.org/)
 
 ## 🎨 Layout
